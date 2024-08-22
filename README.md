@@ -1,0 +1,2 @@
+# datamining
+ sinau data mining
